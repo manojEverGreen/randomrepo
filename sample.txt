@@ -3,4 +3,4 @@
 300
 400
 500
-600 - this is a 600 feature added to code base
+600 - this is a 600 feature added to code base - the quick brown fox jumps over the lazy dog
